@@ -1,20 +1,26 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
+ * Description: print numbers of base16 in lowercase
+ *
  * Return: Always 0 (Success)
- */
+*/
 int main(void)
 {
-int nm, NM;
-for (nm = '0'; nm <= '9'; nm++)
-{
-putchar(nm);
-}
-for (NM = 'a'; NM <= 'f'; NM++)
-{
-putchar(NM);
-}
-putchar('\n');
-return (0);
+	int i = 48;
+
+	while (i <= 102)
+	{
+		putchar(i);
+		if (i == 57)
+		{
+			i += 38;
+			i++;
+		}
+		i++;
+	}
+	putchar('\n');
+	return (0);
 }

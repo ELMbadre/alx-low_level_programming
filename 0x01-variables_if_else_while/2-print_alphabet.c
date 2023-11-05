@@ -2,15 +2,20 @@
 /**
  * main - Entry point
  *
+ * Description: print all aplhabet letters
+ *
  * Return: Always 0 (Success)
- */
+*/
+
 int main(void)
 {
-int al;
-for (al = 'a'; al <= 'z'; al++)
-{
-putchar(al);
-}
-putchar('\n');
-return (0);
+	char alphabet = 'a';
+
+	while (alphabet <= 'z')
+	{
+		putchar(alphabet);
+		alphabet++;
+	}
+	putchar('\n');
+	return (0);
 }

@@ -2,19 +2,24 @@
 /**
  * main - Entry point
  *
+ * Description: print alphabet in lowercase then in uppercase
+ *
  * Return: Always 0 (Success)
- */
+*/
+
 int main(void)
 {
-int al, AL;
-for (al = 'a'; al <= 'z'; al++)
-{
-putchar(al);
-}
-for (AL = 'A'; AL <= 'Z'; AL++)
-{
-putchar(AL);
-}
-putchar('\n');
-return (0);
+	char alphabet = 'a';
+	char uppalphabet = 'A';
+
+	while (alphabet <= 'z')
+	{
+		putchar(alphabet++);
+	}
+	while (uppalphabet <= 'Z')
+	{
+		putchar(uppalphabet++);
+	}
+	putchar('\n');
+	return (0);
 }
