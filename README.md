@@ -2,8 +2,6 @@
 
 Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX Software Engineering School](https://www.alxafrica.com/)**.
 
-
-
 ## Technologies
 
 * Scripts written in Bash 4.3.11(1)
