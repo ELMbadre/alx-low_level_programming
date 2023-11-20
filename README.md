@@ -2,7 +2,6 @@
 
 Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX Software Engineering School](https://www.alxafrica.com/)**.
 
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 
 ## Technologies
