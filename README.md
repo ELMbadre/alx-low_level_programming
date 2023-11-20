@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at [ALX Software Engineering School](https://www.alxafrica.com/)**.
+Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX Software Engineering School](https://www.alxafrica.com/)**.
 
 ## Technologies
 
@@ -26,10 +26,10 @@ All of the following folders are projects done during the studies:
 | [`0x08-recursion`] | It aims to learn about recursion and how to implement it in **C language** |
 | [`0x09-static_libraries`] | It aims to learn about static libraries in **C language** |
 | [`0x0A-argc_argv`] | It aims to learn about how to use arguments passed to a program in **C language** |
-| [`0x0B-malloc_free`]| It aims to learn about automatic and dynamic allocation in **C language** |
+| [`0x0B-malloc_free`] | It aims to learn about automatic and dynamic allocation in **C language** |
 | [`0x0C-more_malloc_free`] | It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language** |
 | [`0x0D-preprocessor`] | It aims to learn about how to include guard in the header files and macros in **C language** |
-| [`0x0E-structures_typedef`]t aims to learn about structures and `typedef` in **C language** |
+| [`0x0E-structures_typedef`] | t aims to learn about structures and `typedef` in **C language** |
 | [`0x0F-function_pointers`] | It aims to learn about function pointers in **C language** |
 | [`0x10-variadic_functions`] | It aims to learn about variadic functions in **C language** |
 | [`0x12-singly_linked_lists`] | It aims to learn about linked lists in **C language** |
