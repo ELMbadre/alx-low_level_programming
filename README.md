@@ -2,6 +2,9 @@
 
 Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX Software Engineering School](https://www.alxafrica.com/)**.
 
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
+
 ## Technologies
 
 * Scripts written in Bash 4.3.11(1)
@@ -40,3 +43,11 @@ All of the following folders are projects done during the studies:
 | [`0x18-dynamic_libraries`]() | It aims to learn about dynamic and shared libraries in **C language** |
 | [`0x19-stacks_queues_lifo_fifo`]() | Submodule of **monty**, an interpreter of Monty ByteCode files written with **C language** |
 | [`0x1A-hash_tables`]() | It aims to learn how to implement Hash Tables with **C language** |
+
+### support:tada:
+
+If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow** busts_in_silhouette
+
+## Author
+
+- **EL MOUTARIF Badreddine** **https://github.com/ELMbadre**
