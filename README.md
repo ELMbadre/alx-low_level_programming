@@ -21,7 +21,7 @@ All of the following folders are projects done during the studies:
 | [`0x03-debugging`]() | It aims to learn how to debug in **C language** |
 | [`0x04-more_functions_nested_loop`]() | It aims to learn about nested loops in **C language** |
 | [`0x05-pointers_arrays_strings`]() | It aims to learn about pointers and arrays in **C language** |
-| [`0x06-pointers_arrays_strings`]() | It aims to learn about pointers and arrays in **C language** |
+| [`0x06-pointers_arrays_strings`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
 | [`0x07-pointers_arrays_strings`]() | It aims to learn about pointers and arrays in **C language** |
 | [`0x08-recursion`]() | It aims to learn about recursion and how to implement it in **C language** |
 | [`0x09-static_libraries`]() | It aims to learn about static libraries in **C language** |
