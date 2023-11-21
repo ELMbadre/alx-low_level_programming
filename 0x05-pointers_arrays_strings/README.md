@@ -1,4 +1,5 @@
 # 0x05-pointers_arrays_strings
+
 About
 An introductory project on:
 
@@ -8,14 +9,14 @@ An introductory project on:
 - How to manipulate strings
 - Scope of variables
 
-## Requirements :
+## Requirements
 
 - Ubuntu 20.04 LTS .
 - gcc -Wall -Werror -Wextra -pedantic -std=gnu89 .
 
-## tasks:
+## tasks
 
-### Mandatory:
+### Mandatory
 
 - 0-reset_to_98.c - function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
@@ -37,7 +38,7 @@ An introductory project on:
 
 - 9-strcpy.c - function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
-## Advanced :
-- 100-atoi.c - converts a string to an integer.
+## Advanced
 
+- 100-atoi.c - converts a string to an integer.
 - 101-keygen.c - generates random valid passwords for the program 101-crackme.
