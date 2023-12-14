@@ -19,7 +19,7 @@ All of the following folders are projects done during the studies:
 | [`0x01-variables_if_else_while`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x01-variables_if_else_while) | It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language** |
 | [`0x02-functions_nested_loops`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x02-functions_nested_loops) | It aims to learn about header files, functions, loops and nested loops in **C language** |
 | [`0x03-debugging`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x03-debugging) | It aims to learn how to debug in **C language** |
-| [`0x04-more_functions_nested_loop`] | It aims to learn about nested loops in **C language** |
+| [`0x04-more_functions_nested_loop`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops) | It aims to learn about nested loops in **C language** |
 | [`0x05-pointers_arrays_strings`] | It aims to learn about pointers and arrays in **C language** |
 | [`0x06-pointers_arrays_strings`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
 | [`0x07-pointers_arrays_strings`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
@@ -34,7 +34,7 @@ All of the following folders are projects done during the studies:
 | [`0x10-variadic_functions`] | It aims to learn about variadic functions in **C language** |
 | [`0x12-singly_linked_lists`] | It aims to learn about linked lists in **C language** |
 | [`0x13-more_singly_linked_lists`] | It aims to learn about singly linked lists in **C language** |
-| [[0x14-bit_manipulation](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x14-bit_manipulation)] | It aims to learn about how to manipulate bits and use bitwise operators in **C language** |
+| [`0x14-bit_manipulation`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x14-bit_manipulation)] | It aims to learn about how to manipulate bits and use bitwise operators in **C language** |
 | [`0x15-file_io`] | It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language** |
 | [`0x17-doubly_linked_lists`] | It aims to learn about doubly linked list in **C language** |
 | [`0x18-dynamic_libraries`] | It aims to learn about dynamic and shared libraries in **C language** |
