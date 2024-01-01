@@ -28,7 +28,7 @@ All of the following folders are projects done during the studies:
 | [`0x0A-argc_argv`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
 | [`0x0B-malloc_free`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x0B-malloc_free) | It aims to learn about automatic and dynamic allocation in **C language** |
 | [`0x0C-more_malloc_free`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x0C-more_malloc_free) | It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language** |
-| [`0x0D-preprocessor`] | It aims to learn about how to include guard in the header files and macros in **C language** |
+| [`0x0D-preprocessor`](https://github.com/ELMbadre/alx-low_level_programming/tree/main/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in **C language** |
 | [`0x0E-structures_typedef`] | t aims to learn about structures and `typedef` in **C language** |
 | [`0x0F-function_pointers`] | It aims to learn about function pointers in **C language** |
 | [`0x10-variadic_functions`] | It aims to learn about variadic functions in **C language** |
