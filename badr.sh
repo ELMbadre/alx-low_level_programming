@@ -4,17 +4,17 @@
 USERNAME="your_username"
 REPO_NAME="your_repository"
 
-# Create 33 files
+
 for i in {1..70}
 do
-    touch "file${i}.c"
-    echo "// This is file ${i}" >> "file${i}.c"
+    touch "file${i}.py"
+    echo "// This is file ${i}" >> "file${i}.py"
 done
 
 # Add, commit, and push each file
 for i in {1..70}
 do
-    git add "file${i}.c"
-    git commit -m "Add file${i}.c"
-    git push origin main
+    git add "file${i}.py"
+    git commit -m "All tasks finished! 🏁"
+    git push
 done
